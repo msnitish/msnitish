@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### This is Nitish
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=megatron99)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=megatron99&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <!--
