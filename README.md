@@ -1,9 +1,9 @@
 ### Hi there, I'm *Nitish* 👋
 
 - 👤 I'm currently working as a Systems Support Engineer for NTT-AT.
-- 🌱 I’m currently learning Web Application Development using Node and React. 
+- 🌱 Learning Web Application Development using Node and React. 
 - 🛠 I have prior experience building applications using the Django framework.
-- 💻 I also invest time to have proper Algorithmic Problem solving skills using Leetcode.
+- 💻 I also invest time to improve my Algorithmic Problem solving skills.
 
 ##### LC stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=megatron99&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
