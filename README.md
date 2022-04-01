@@ -1,6 +1,5 @@
 ### Hi there, I'm *Nitish* 👋
 
-- 👤 I'm currently working as a Software Engineer at NTT-AT.
 - 🌱 Learning Web Application Development using Node and React. 
 - 🛠 I have prior experience building applications using the Django framework.
 - 💻 I also invest time to improve my Algorithmic Problem solving skills.
